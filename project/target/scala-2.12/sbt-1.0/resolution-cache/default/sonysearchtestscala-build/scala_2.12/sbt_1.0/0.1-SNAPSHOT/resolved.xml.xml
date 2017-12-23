@@ -4,7 +4,7 @@
 		module="sonysearchtestscala-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171223122345"
+		publication="20171223123103"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

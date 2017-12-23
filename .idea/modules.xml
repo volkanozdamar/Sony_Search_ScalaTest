@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sonysearchtestscala.iml" filepath="$PROJECT_DIR$/.idea/modules/sonysearchtestscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sonysearchtestscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sonysearchtestscala-build.iml" />
     </modules>
   </component>
 </project>
